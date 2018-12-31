@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Grab Remake</string>
+    <string name="open">terbuka</string>
+    <string name="close">tertutup</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

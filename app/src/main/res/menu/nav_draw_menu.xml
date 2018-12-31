@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+
+        <item
+            android:id="@+id/navi_payment"
+            android:checked="false"
+            android:title="Payment" />
+
+        <item
+            android:id="@+id/navi_cards"
+            android:checked="false"
+            android:title="Cards" />
+
+        <item
+            android:id="@+id/navi_grab_rewards"
+            android:checked="false"
+            android:title="GrabRewards" />
+
+        <item
+            android:id="@+id/navi_grab_club"
+            android:checked="false"
+            android:title="GrabClub" />
+
+        <item
+            android:id="@+id/navi_groceries"
+            android:checked="false"
+            android:title="Groceries" />
+
+        <item
+            android:id="@+id/navi_history"
+            android:checked="false"
+            android:title="History" />
+
+        <item
+            android:id="@+id/navi_scheduled"
+            android:checked="false"
+            android:title="Scheduled" />
+
+        <item
+            android:id="@+id/navi_notification"
+            android:checked="false"
+            android:title="Notifications" />
+
+        <item
+            android:id="@+id/navi_help"
+            android:checked="false"
+            android:title="Help Centre" />
+
+        <item
+            android:id="@+id/navi_emergency"
+            android:checked="false"
+            android:title="Emergency" />
+
+        <item
+            android:id="@+id/navi_drive"
+            android:checked="false"
+            android:title="Drive with Grab" />
+
+        <item
+            android:id="@+id/navi_setting"
+            android:checked="false"
+            android:title="Settings" />
+
+    </group>
+
+</menu>
